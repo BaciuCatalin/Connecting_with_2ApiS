@@ -1,0 +1,37 @@
+/* style.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .select {
+    text-align: center;
+  }
+  
+  .select p {
+    margin: 0;
+  }
+  
+  #apiSelect {
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  #displayButton {
+    padding: 10px 20px;
+    font-size: 16px;
+  }
+  
+  #display {
+    margin-top: 20px;
+    padding: 10px;
+    font-size: 18px;
+    border: 1px solid #ccc;
+    background-color: #f8f8f8;
+  }
